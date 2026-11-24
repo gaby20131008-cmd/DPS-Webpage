@@ -1,0 +1,1 @@
+ALTER TABLE "custom_roles" DROP CONSTRAINT "custom_roles_key_key";

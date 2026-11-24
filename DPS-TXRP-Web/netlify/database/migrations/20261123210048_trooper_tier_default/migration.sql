@@ -1,0 +1,1 @@
+ALTER TABLE "ranks" ALTER COLUMN "tier" SET DEFAULT 'Trooper';
